@@ -1,2 +1,1 @@
-# js_page
-ページ提出用のテンプレート
+# js-various
